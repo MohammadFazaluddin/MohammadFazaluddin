@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fazaluddin Shaikh</h1>
 <h3 align="center">A Full Stack Developer, I use NeoVim by the way.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadfazaluddin&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadfazaluddin" /> </p>
-
 - 🔭 I’m currently working on **Algorithm Visualiser**
 
 - 🌱 I’m currently learning **Neovim, Rust, NextJs, Go**
