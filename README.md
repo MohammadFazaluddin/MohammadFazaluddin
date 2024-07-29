@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fazaluddin Shaikh</h1>
 <h3 align="center">A Full Stack Developer, I use NeoVim by the way.</h3>
 
-- 🔭 I’m currently working on **Algorithm Visualiser**
+- 🔭 I’m currently working on **Monkey Language and Mon Interpreter**
 
 - 🌱 I’m currently learning **Neovim, Rust, NextJs, Go**
 
